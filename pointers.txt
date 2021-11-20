@@ -1,0 +1,7 @@
+1.pointers are just like variable but its not just limited to behave as a conatiner
+but it can aslo store address(memory location).
+ 
+2.& denotes a physical address of a varible.
+
+3.pointer stores address or that value which & denotes ( syntax~int* x).
+4.address of each type of datatype holdes by its specific datatype pointer(float* x,int* x,char* x,double* x) 
