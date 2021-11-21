@@ -12,3 +12,5 @@ but it can aslo store address(memory location).
                 a.assign address of a variable to the void pointer-{  void* ptr=&variable  }
                 b.caste void pointer into variable`s datatype-{    (int*)ptr   );  }
                 c.now,finally derefrencing it-{ *((int*)ptr)    }
+
+8.In an array the address it returns is address of its first element.
