@@ -5,3 +5,5 @@ but it can aslo store address(memory location).
 
 3.pointer stores address or that value which & denotes ( syntax~int* x).
 4.address of each type of datatype holdes by its specific datatype pointer(float* x,int* x,char* x,double* x) 
+5int*---denotes pointer
+6.ptr holdes address whereas *ptr(derefrenced) holdes a value.
