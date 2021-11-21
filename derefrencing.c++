@@ -10,7 +10,7 @@ int main()
 cout<<"value of a assign using ptr dereferncing a = "<<a<<endl;
 
 
-
     
+
 return 0;
 }

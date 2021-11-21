@@ -7,3 +7,8 @@ but it can aslo store address(memory location).
 4.address of each type of datatype holdes by its specific datatype pointer(float* x,int* x,char* x,double* x) 
 5int*---denotes pointer
 6.ptr holdes address whereas *ptr(derefrenced) holdes a value.
+7.void pointer can hold address of any datatype but it can not derefrenced directly..*((datatype*)pointer)
+->this is how void pointer works:
+                a.assign address of a variable to the void pointer-{  void* ptr=&variable  }
+                b.caste void pointer into variable`s datatype-{    (int*)ptr   );  }
+                c.now,finally derefrencing it-{ *((int*)ptr)    }
