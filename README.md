@@ -5,4 +5,4 @@
 
 > how they work with __memory allocation__
 
-![pointers](https://i.ytimg.com/vi/L1PqP2Xk7S4/maxresdefault.jpg =100*200)
+![pointers](https://i.ytimg.com/vi/L1PqP2Xk7S4/maxresdefault.jpg)
